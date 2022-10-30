@@ -16,7 +16,7 @@ body{
     color:#212529;
 }
 .first-yellow-part{
-    background-image: url('/images/bg-masthead.jpg');
+    background-image: url('https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg');
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -71,7 +71,7 @@ body{
     padding: 1.5rem 2.5rem;
 }
 .third-yellow-part{
-    background-image: url('/images/bg-callout.jpg');
+    background-image: url('https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg');
     background-size: cover;
     background-position: center;
     text-align: center;
